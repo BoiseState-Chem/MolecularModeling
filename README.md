@@ -11,6 +11,8 @@ Contact: olivieroandreuss@boisestate.edu
 
 ## Content
 * 01-FreeParticle.ipynb: 
+* 02-HarmonicOscillator.ipynb:
+* 03-CoupledOscillators.ipynb:
 
 ## Acknowledgements
 We acknowledge funding from the NSF Cybertraining program, award #2321102 "Collaborative Research: CyberTraining: Implementation: Medium: Training Users, Developers, and Instructors at the Chemistry/Physics/Materials Science Interface", Lead PI Oliviero Andreussi, PI Michele Pavanello (Rutgers University Newark), and PI Francesco Paesani (UC San Diego)
