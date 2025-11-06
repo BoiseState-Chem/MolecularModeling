@@ -1,6 +1,8 @@
 # To Do List
 
 ## High Priority
+- [ ] Finish visualization of Part 1 of notebook 8
+- [ ] Implement EoS in Part 2 of notebook 8
 - [ ] Implement MO visualization in 3D for cubefiles
 - [ ] Clean up and add formulas in Formulas.ipynb
 - [ ] Improve explanations/details of assignments
